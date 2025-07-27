@@ -38,7 +38,8 @@ Sou aluno do **DevClub** com acesso vitalício à plataforma, o que mostra meu c
 
 [![Itamar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItamarJrRx)](https://github.com/ItamarJrRx)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ItamarJrRx&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItamarJrRx&layout=compact&theme=dracula)](https://github.com/ItamarJrRx)
+
 
 
 
