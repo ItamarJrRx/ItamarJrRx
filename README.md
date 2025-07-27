@@ -36,5 +36,11 @@ Sou aluno do **DevClub** com acesso vitalício à plataforma, o que mostra meu c
   <img src="https://unpkg.com/ionicons@7.1.0/dist/svg/mail-outline.svg" width="30" alt="E-mail" />
 </a>
 
+[![Itamar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItamarJrRx)](https://github.com/ItamarJrRx)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ItamarJrRx&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
 
 
